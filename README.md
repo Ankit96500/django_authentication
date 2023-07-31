@@ -1,4 +1,5 @@
 # django_authentication
+> this is django_authentication project in which user can login,signup,logout,changepassword and update its profile.
 
 ## Screenshots :
 
@@ -30,6 +31,10 @@
 
 ## Functions :
 ### USER
-
 - user can
+> user can
+
+### ADMIN
+
+
 

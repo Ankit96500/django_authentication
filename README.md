@@ -1,6 +1,6 @@
 # django_authentication
 
-## Screenshots:
+## Screenshots :
 
 ### Home-Page
 ![Annotation 2023-07-31 144644](https://github.com/Ankit96500/django_authentication/assets/107850796/a3c5d5b6-b5ca-4f5c-951f-10d0f83d63cd)
@@ -24,3 +24,12 @@
 ![Annotation 2023-07-31 151528](https://github.com/Ankit96500/django_authentication/assets/107850796/a878d9d4-8a1a-4baf-ab43-e57a8397f63c)
 
 ![Annotation 2023-07-31 151642](https://github.com/Ankit96500/django_authentication/assets/107850796/7bbad01d-3cfd-4434-96d4-9d49009c5f2d)
+
+### User Dashboard-Page
+![Annotation 2023-07-31 151642](https://github.com/Ankit96500/django_authentication/assets/107850796/417628b0-c624-49dc-af5c-45dd9b9cf1db)
+
+## Functions :
+### USER
+
+- user can
+

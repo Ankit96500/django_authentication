@@ -21,8 +21,6 @@ def sign_up(request):
         if fm.is_valid():
             unm = fm.cleaned_data['username']
             em = fm.cleaned_data['email']
-            fm = fm.cleaned_data['first_name']
-            lm = fm.cleaned_data['last_name']
             fm.save()
             messages.success(request,'YOU SIGNEDUP SUCCESSFULLY !!!')
     else:

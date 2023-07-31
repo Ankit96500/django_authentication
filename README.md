@@ -11,7 +11,7 @@
 ### Signup-Page
 ![Annotation 2023-07-31 145102](https://github.com/Ankit96500/django_authentication/assets/107850796/e2f36567-9502-4594-a87c-0c8443ac5028)
 
-### Profile-Page
+### User Profile-Page
 ![Annotation 2023-07-31 150203](https://github.com/Ankit96500/django_authentication/assets/107850796/e951fcb5-20e8-4923-af18-f21efde0bcaf)
 
 ### Password type 1
@@ -20,3 +20,7 @@
 ### Password type 1
 ![Annotation 2023-07-31 150831](https://github.com/Ankit96500/django_authentication/assets/107850796/e8cf2604-f299-4fad-bad4-454c86e67c21)
 
+### Admin Profile-Page
+![Annotation 2023-07-31 151528](https://github.com/Ankit96500/django_authentication/assets/107850796/a878d9d4-8a1a-4baf-ab43-e57a8397f63c)
+
+![Annotation 2023-07-31 151642](https://github.com/Ankit96500/django_authentication/assets/107850796/7bbad01d-3cfd-4434-96d4-9d49009c5f2d)

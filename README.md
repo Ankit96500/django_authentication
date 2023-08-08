@@ -34,7 +34,9 @@
 - user can perform actions such as Login,Logout,Signup,Changepassword or edituser details.
 
 ### ADMIN
--
+- Admin can view own details as well as user details.
+- Admin can update user credentials.
+
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :

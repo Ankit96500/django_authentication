@@ -31,10 +31,10 @@
 
 ## Functions :
 ### USER
-- user can
-> user can
->
+- user can perform actions such as Login,Logout,Signup,Changepassword or edituser details.
 
+### ADMIN
+-
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
@@ -56,7 +56,6 @@
 # Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
-### ADMIN
 
 
 
